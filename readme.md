@@ -37,16 +37,4 @@ Filter podcasts by their names
     - Returns a JSON array with all podcast episodes with the specified name. 
 
 
-## Project Structure (Simplified)
-- podcast-manager
-├── controllers/
-│   └── podcasts_controller.ts
-├── routes/
-│   └── routes.ts
-├── utils/
-│   └── http_methods.ts
-├── data/
-│   └── podcasts.json
-└── app.ts
-
 
