@@ -11,6 +11,14 @@ This projected was made following a DIO bootcamp 'mobile-developer'
 - TypeScript
 - Native HTTP module
 
+## Development Stack
+This project uses the following tools and libraries:
+
+- TypeScript – Type-safe JavaScript
+- TSX – Zero-config TypeScript runner with .env support
+- Tsup – Lightweight bundler for building the production output
+- @types/node – Type definitions for Node.js
+
 ## Features
 
 - Group episodes by categories
@@ -34,6 +42,34 @@ Video podcasts hosted on platforms like YouTube.
 #### GET /api/episode
 Filter podcasts by their names
 - Returns a JSON array with all podcast episodes with the specified name. 
+
+---
+## Available Scripts
+
+### Run the project in development mode
+- npm run start:dev
+
+### Watch for file changes and restart automatically
+- npm run start:watch
+
+### Build the project for production using tsup
+- npm run dist
+
+### Build and run the production version
+- npm run start:dist
+
+---
+
+## Getting Started
+### 1. Clone the repository
+- git clone https://github.com/victoriaresende/podcast-manager.git
+cd podcast-manager
+
+### 2. Install dependencies
+- npm install
+
+### 3. Start the development server
+- npm run start:dev
 
 
 
