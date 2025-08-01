@@ -60,7 +60,7 @@ Filter podcasts by their names
 
 ---
 
-## Getting Started
+## How to use
 ### 1. Clone the repository
 - git clone https://github.com/victoriaresende/podcast-manager.git
 cd podcast-manager
