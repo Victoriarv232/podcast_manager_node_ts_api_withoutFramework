@@ -36,7 +36,7 @@ Video podcasts hosted on platforms like YouTube.
 
 ## How It Works
 #### GET /api/list
- List All Episodes
+ List All Episodes 
 - Returns a JSON array with all podcast episodes
 
 #### GET /api/episode
@@ -70,6 +70,10 @@ cd podcast-manager
 
 ### 3. Start the development server
 - npm run start:dev
+
+### 4. Make requests
+- List exemple: http://localhost:3333/api/
+- Filter exemple: http://localhost:3333/api/episode?p=flow
 
 ---
 
