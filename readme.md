@@ -71,5 +71,8 @@ cd podcast-manager
 ### 3. Start the development server
 - npm run start:dev
 
+---
 
+## License
+This project is available under the MIT License.
 
