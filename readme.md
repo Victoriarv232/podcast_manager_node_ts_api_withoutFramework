@@ -1,15 +1,13 @@
 # 🎙️ Podcast Manager
 
-A simple and efficient Node.js REST API to manage and display video-format podcast episodes. This application organizes podcasts into category-based sections and supports filtering by podcast name.
+A Node.js REST API to manage and display video-format podcast episodes. This application organizes podcasts into category-based sections and supports filtering by podcast name.
 
 This projected was made following a DIO bootcamp 'mobile-developer'
 ---
 
 ## Technologies Used
 - Node.js
-
 - TypeScript
-
 - Native HTTP module
 
 ## Features
