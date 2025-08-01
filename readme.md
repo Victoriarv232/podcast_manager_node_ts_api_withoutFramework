@@ -30,11 +30,11 @@ Video podcasts hosted on platforms like YouTube.
 ## How It Works
 #### GET /api/list
  List All Episodes
-    - Returns a JSON array with all podcast episodes
+- Returns a JSON array with all podcast episodes
 
 #### GET /api/episode
 Filter podcasts by their names
-    - Returns a JSON array with all podcast episodes with the specified name. 
+- Returns a JSON array with all podcast episodes with the specified name. 
 
 
 
